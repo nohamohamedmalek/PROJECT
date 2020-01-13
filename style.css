@@ -412,7 +412,7 @@ h1
 
 .bg
 {
-  background-image: url('F:/Project/photos/SECTION2/BACKGROUND.jpg');
+  background-image: url('photos/SECTION2/BACKGROUND.jpg');
   /* border: 2px solid black; */
   background-repeat: no-repeat;
   background-size: cover;
@@ -489,7 +489,7 @@ ul.filters >li.active >a{
 
 .bg1
 {
-  background-image: url('F:/Project/photos/ICON/download.png');
+  background-image: url('photos/ICON/download.png');
   background-repeat: no-repeat;
   background-position: left;
   
@@ -500,7 +500,7 @@ ul.filters >li.active >a{
 }
 .last-bg
 {
-  background-image: url('F:/Project/photos/SECTION2/bg-8.jpg');
+  background-image: url('photos/SECTION2/bg-8.jpg');
   background-repeat: no-repeat;
   
 }
